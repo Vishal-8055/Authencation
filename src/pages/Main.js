@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Axios from "axios";
 
-import NormalUser from "../components/NormalUser";
+import NormalUser from "../components/footer";
 import Mod from "../components/Mod";
 import Admin from "../components/Admin";
 
